@@ -1,13 +1,13 @@
 
 ### **CTI-P4-POO-20242-LISTA02**
 
-**Dedicado às atividades de POO dos capítulos 6 e 8, da lista 2**
+**Dedicado às atividades de POO dos capítulos 6 e 8, da lista 3**
 
 ---
 
 ## **Atividades de Programação Orientada a Objetos (POO) - Java**
 
-Este repositório contém as soluções de **20 questões** de **Programação Orientada a Objetos (POO)** em Java, desenvolvidas como parte da disciplina do professor **Roger Moura Sarmento**, no **Campus Maranguape**.
+Este repositório contém as soluções de **20 questões**(01 a 10 do CAP06 e CAp08) de **Programação Orientada a Objetos (POO)** em Java, desenvolvidas como parte da disciplina do professor **Roger Moura Sarmento**, no **Campus Maranguape**.
 
 ---
 
@@ -19,35 +19,22 @@ A **Programação Orientada a Objetos (POO)** organiza o código em "objetos", q
 
 ---
 
-## **Como usar**
-
-Para executar os exercícios, siga os seguintes passos:
-
-1. **Baixe e instale o Eclipse IDE**:
-   - Faça o download do Eclipse em [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/).
-   - Instale o Eclipse em seu computador.
-
-2. **Crie um novo projeto no Eclipse**:
-   - Abra o Eclipse e selecione **File > New > Java Project**.
-   - Dê um nome ao projeto (por exemplo, `POO-Lista02`).
-
-3. **Crie o pacote e a classe**:
-   - Clique com o botão direito sobre o `src` do seu projeto e selecione **New > Package**.
-   - Nomeie o pacote como `br.edu.principal`.
-   - Em seguida, clique com o botão direito no pacote `br.edu.principal` e selecione **New > Class**.
-   - Nomeie a classe como `Principal`.
-
-4. **Copie e cole o código da questão correspondente**:
-   - Acesse o exercício desejado e copie o código da classe `Principal` para o arquivo criado.
-
-5. **Execute o código**:
-   - Após colar o código, clique com o botão direito na classe `Principal` e selecione **Run As > Java Application** para ver o resultado da execução.
-
----
-
 Esse repositório visa ajudar os alunos a entender melhor a aplicação da POO com Java, promovendo uma boa base para a resolução de problemas práticos por meio da programação orientada a objetos.
 
 ---
+## **Apresentação do Capítulo 06 – Vetores**
+**Livro:** Fundamentos da Programação de Computadores – 3ª Edição
+**Autora:** Ana Fernanda Gomes Ascencio
+
+O capítulo 06 do livro aborda vetores, um dos conceitos fundamentais na programação estruturada. Os vetores são apresentados como um tipo de estrutura de dados essencial para armazenar e manipular conjuntos de informações de forma organizada e eficiente.
+
+## **Definição de Vetor**
+Um vetor, também conhecido como variável composta homogênea unidimensional, é uma estrutura que:
+
+Agrupa variáveis de mesmo tipo: Todas as variáveis em um vetor possuem o mesmo tipo (ex.: inteiro, real, caractere).
+Possui o mesmo identificador: Todas as variáveis que fazem parte do vetor compartilham um único nome.
+É organizado por índices: A distinção entre os elementos ocorre por meio de índices, que indicam a posição de cada variável dentro do vetor.
+Na prática, o vetor permite acessar ou modificar dados individuais por meio de seu índice. Isso facilita operações como a busca, ordenação e processamento de grandes volumes de dados.
 
 ## **Exercícios Resolvidos**
 
@@ -102,18 +89,33 @@ Esse repositório visa ajudar os alunos a entender melhor a aplicação da POO c
    - **Objetivo**: Implementar um sistema que consulte e reserve passagens de voo, verificando disponibilidade.  
    - [**Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
 
----
+##---
 
 10. **Corrigir provas de múltipla escolha, calcular a nota dos alunos e a porcentagem de aprovação.**  
    - **Objetivo**: Corrigir respostas de alunos, calcular a nota e determinar a porcentagem de aprovação (mínimo 6).  
    - [**Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
 
 
-**Dedicado às atividades de POO do capítulo 8**
+## **Apresentação do Capítulo 08 – Sub-rotinas**
+**Livro:** Fundamentos da Programação de Computadores – 3ª Edição
+**Autora:** Ana Fernanda Gomes Ascencio
+
+O capítulo 08 aborda sub-rotinas, um conceito central na programação modular. Sub-rotinas são ferramentas fundamentais para a organização, reutilização e manutenção de código, permitindo o desenvolvimento de programas mais claros, eficientes e modulares.
+
+## Definição de Sub-rotinas
+Uma sub-rotina é definida como um bloco de código nomeado que executa uma tarefa específica dentro de um programa. As sub-rotinas possuem as seguintes características principais:
+
+**Modularização:** Dividem o programa em partes menores e mais manejáveis.
+**Reutilização:** Podem ser chamadas várias vezes em diferentes partes do programa, evitando a repetição de código.
+**Isolamento de Funções:** Concentram a lógica de tarefas específicas em um único lugar, facilitando a manutenção e depuração.
+Existem dois tipos principais de sub-rotinas:
+
+**Funções:** Executam uma tarefa e retornam um valor.
+**Procedimentos:** Executam uma tarefa, mas não retornam um valor diretamente.
 
 ---
 
-## **Exercícios**
+## **Exercícios Resolvidos**
 
 1. **Retornar 1 se o número for positivo, ou 0 se for negativo.**  
    [Solução](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
@@ -145,3 +147,27 @@ Esse repositório visa ajudar os alunos a entender melhor a aplicação da POO c
 10. **Calcular o valor de S a partir de um valor inteiro N, utilizando a fórmula definida.**  
    [Solução](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
 
+---
+## **Como usar**
+
+Para executar os exercícios, siga os seguintes passos:
+
+1. **Baixe e instale o Eclipse IDE**:
+   - Faça o download do Eclipse em [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/).
+   - Instale o Eclipse em seu computador.
+
+2. **Crie um novo projeto no Eclipse**:
+   - Abra o Eclipse e selecione **File > New > Java Project**.
+   - Dê um nome ao projeto (por exemplo, `POO-Lista02`).
+
+3. **Crie o pacote e a classe**:
+   - Clique com o botão direito sobre o `src` do seu projeto e selecione **New > Package**.
+   - Nomeie o pacote como `br.edu.principal`.
+   - Em seguida, clique com o botão direito no pacote `br.edu.principal` e selecione **New > Class**.
+   - Nomeie a classe como `Principal`.
+
+4. **Copie e cole o código da questão correspondente**:
+   - Acesse o exercício desejado e copie o código da classe `Principal` para o arquivo criado.
+
+5. **Execute o código**:
+   - Após colar o código, clique com o botão direito na classe `Principal` e selecione **Run As > Java Application** para ver o resultado da execução.
