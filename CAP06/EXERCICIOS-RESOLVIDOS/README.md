@@ -1,33 +1,92 @@
+Aqui está uma versão mais visual e organizada para o README:  
 
+---
 
-## **Exercícios Resolvidos**
+# 📘 **Apresentação do Capítulo 06 – Vetores**  
+**Livro**: *Fundamentos da Programação de Computadores – 3ª Edição*  
+**Autora**: Ana Fernanda Gomes Ascencio  
 
-1. **Preencher vetor com 9 números inteiros e mostrar os primos e suas posições.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
+O capítulo 06 do livro aborda **vetores**, uma estrutura de dados fundamental na programação. Eles são utilizados para armazenar e manipular conjuntos de informações de maneira eficiente e organizada.  
 
-2. **Calcular salário de vendedor com comissão de 5% sobre vendas de 10 objetos. Mostrar relatório de vendas e o objeto mais vendido.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
+---
 
-3. **Preencher dois vetores de 10 números e intercala-los em um vetor resultante.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
+## 🧩 **Definição de Vetor**  
+Um vetor, também chamado de **variável composta homogênea unidimensional**, possui as seguintes características:  
+- 🔹 **Agrupa variáveis de mesmo tipo** (inteiros, reais, caracteres, etc.).  
+- 🔹 **Possui um único identificador** (nome), distinguindo elementos por meio de **índices**.  
+- 🔹 **Facilita operações** como busca, ordenação e processamento de grandes volumes de dados.  
 
-4. **Preencher vetor com 8 números inteiros e gerar dois vetores: um com positivos e outro com negativos.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
+Exemplo básico de vetor:  
+```plaintext
+vetor = [10, 20, 30, 40, 50]  // Elementos do vetor
+índices = [ 0,  1,  2,  3,  4]  // Índices correspondentes
+```
 
-5. **Preencher dois vetores X e Y de 10 números e realizar operações de união, diferença, soma, produto e intersecção.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
+---
 
-6. **Preencher vetor com 10 números e ordená-los de forma decrescente.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
+## 📖 **Exercícios Resolvidos**  
 
-7. **Preencher vetor com 8 números inteiros e armazená-los de forma crescente.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
+### 1️⃣ **Preencher um vetor com nove números inteiros e mostrar os números primos e suas posições**  
+- **Objetivo**: Identificar números primos em um vetor e exibir suas posições.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)  
 
-8. **Preencher dois vetores com 5 números, ordená-los e gerar um vetor com a junção ordenada.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
+---
 
-9. **Efetuar reserva de passagens aéreas, com opções de consulta e reserva de voos.**  
-   - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
+### 2️⃣ **Loja de artesanato: cálculo de vendas e comissão**  
+- **Objetivo**: Calcular o total de vendas e a comissão do vendedor (5%), destacando o item mais vendido.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)  
 
-10. **Corrigir provas de múltipla escolha, calcular notas e mostrar a porcentagem de aprovação.**  
-    - [Solução](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
+---
+
+### 3️⃣ **Intercalar dois vetores de 10 elementos**  
+- **Objetivo**: Criar um vetor resultante com elementos alternados de dois vetores.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)  
+
+---
+
+### 4️⃣ **Gerar vetores de números positivos e negativos**  
+- **Objetivo**: Separar os números de um vetor principal em dois vetores distintos.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)  
+
+---
+
+### 5️⃣ **Operações entre dois vetores (X e Y)**  
+- **Objetivo**: Realizar operações como união, interseção, diferença, soma e produto entre vetores.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)  
+
+---
+
+### 6️⃣ **Ordenar vetor em ordem decrescente**  
+- **Objetivo**: Reorganizar os elementos de um vetor de forma decrescente.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)  
+
+---
+
+### 7️⃣ **Ordenar vetor diretamente em ordem crescente**  
+- **Objetivo**: Receber números e organizá-los imediatamente em ordem crescente.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)  
+
+---
+
+### 8️⃣ **Juntar dois vetores e ordená-los**  
+- **Objetivo**: Criar um vetor com a junção ordenada de dois vetores.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)  
+
+---
+
+### 9️⃣ **Sistema de reservas de passagens aéreas**  
+- **Objetivo**: Desenvolver um sistema de consulta e reserva de passagens verificando disponibilidade.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)  
+
+---
+
+### 🔟 **Corrigir provas e calcular porcentagem de aprovação**  
+- **Objetivo**: Determinar a nota de alunos em uma prova de múltipla escolha e a porcentagem de aprovação.  
+- [🔗 **Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)  
+
+---
+
+## 🚀 **Conclusão**  
+Os exercícios deste capítulo mostram como os vetores são ferramentas poderosas para organizar e manipular dados. Praticar esses conceitos é essencial para o desenvolvimento de algoritmos eficientes e organizados.  
+
+🎓 Explore os links para os exemplos e aprofunde seu aprendizado! 
