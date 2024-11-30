@@ -1,7 +1,3 @@
-Aqui está uma versão mais visual e organizada para o README:  
-
----
-
 # 📘 **Apresentação do Capítulo 06 – Vetores**  
 **Livro**: *Fundamentos da Programação de Computadores – 3ª Edição*  
 **Autora**: Ana Fernanda Gomes Ascencio  
