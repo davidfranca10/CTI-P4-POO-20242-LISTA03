@@ -1,10 +1,6 @@
 
-### **CTI-P4-POO-20242-LISTA02**
-
-**Dedicado às atividades de POO dos capítulos 6 e 8, da lista 3**
-
+### **CTI-P4-POO-20242-LISTA03**
 ---
-
 ## **Atividades de Programação Orientada a Objetos (POO) - Java**
 
 Este repositório contém as soluções de **20 questões**(01 a 10 do CAP06 e CAp08) de **Programação Orientada a Objetos (POO)** em Java, desenvolvidas como parte da disciplina do professor **Roger Moura Sarmento**, no **Campus Maranguape**.
@@ -95,7 +91,7 @@ Na prática, o vetor permite acessar ou modificar dados individuais por meio de 
    - **Objetivo**: Corrigir respostas de alunos, calcular a nota e determinar a porcentagem de aprovação (mínimo 6).  
    - [**Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
 
-
+---
 ## **Apresentação do Capítulo 08 – Sub-rotinas**
 **Livro:** Fundamentos da Programação de Computadores – 3ª Edição
 **Autora:** Ana Fernanda Gomes Ascencio
