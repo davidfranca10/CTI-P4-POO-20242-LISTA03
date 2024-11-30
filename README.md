@@ -89,7 +89,7 @@ Na prática, o vetor permite acessar ou modificar dados individuais por meio de 
    - **Objetivo**: Implementar um sistema que consulte e reserve passagens de voo, verificando disponibilidade.  
    - [**Exemplo de solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
 
-##---
+---
 
 10. **Corrigir provas de múltipla escolha, calcular a nota dos alunos e a porcentagem de aprovação.**  
    - **Objetivo**: Corrigir respostas de alunos, calcular a nota e determinar a porcentagem de aprovação (mínimo 6).  
