@@ -21,7 +21,7 @@ Uma sub-rotina é um **bloco de código nomeado** que realiza uma tarefa especí
 ---
 
 ## 📖 **Exercícios Resolvidos**  
-**OBS:** As sub-rotinas 
+**OBS:** As sub-rotinas se encontram na EXERCICOS-RESOLVIDOS/(EXE correspondente)/scr/br/edu
 
 
 ### 1️⃣ **Retornar 1 se o número for positivo ou 0 se for negativo**  
