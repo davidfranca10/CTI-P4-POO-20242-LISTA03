@@ -3,7 +3,9 @@
 ---
 ## **Atividades de Programação Orientada a Objetos (POO) - Java**
 
-Este repositório contém as soluções de **20 questões**(01 a 10 do CAP06 e CAp08) de **Programação Orientada a Objetos (POO)** em Java, desenvolvidas como parte da disciplina do professor **Roger Moura Sarmento**, no **Campus Maranguape**.
+Este repositório contém as soluções de **20 questões**(01 a 10 do CAP06 e CAP08) de **Programação Orientada a Objetos (POO)** em Java, desenvolvidas como parte da disciplina do professor **Roger Moura Sarmento**, no **Campus Maranguape**.
+
+[<img src ="https://m.media-amazon.com/images/I/81HITrV4GXL._AC_UF894,1000_QL80_.jpg" width="300">](https://drive.google.com/file/d/1MWTShjGeyGTPoeVImLhxFDcUYBNt2bAB/view?usp=classroom_web&authuser=0)
 
 ---
 
@@ -15,8 +17,6 @@ A **Programação Orientada a Objetos (POO)** organiza o código em "objetos", q
 
 ---
 ## **Apresentação do Capítulo 06 – Vetores**
-**Livro:** Fundamentos da Programação de Computadores – 3ª Edição
-**Autora:** Ana Fernanda Gomes Ascencio
 
 O capítulo 06 do livro aborda vetores, um dos conceitos fundamentais na programação estruturada. Os vetores são apresentados como um tipo de estrutura de dados essencial para armazenar e manipular conjuntos de informações de forma organizada e eficiente.
 
@@ -32,8 +32,6 @@ Na prática, o vetor permite acessar ou modificar dados individuais por meio de 
 ## [**Exercícios Resolvidos do Capitulo 06**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/tree/main/CAP06/EXERCICIOS-RESOLVIDOS)
 ---
 ## **Apresentação do Capítulo 08 – Sub-rotinas**
-**Livro:** Fundamentos da Programação de Computadores – 3ª Edição
-**Autora:** Ana Fernanda Gomes Ascencio
 
 O capítulo 08 aborda sub-rotinas, um conceito central na programação modular. Sub-rotinas são ferramentas fundamentais para a organização, reutilização e manutenção de código, permitindo o desenvolvimento de programas mais claros, eficientes e modulares.
 
