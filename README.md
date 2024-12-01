@@ -49,6 +49,7 @@ Existem dois tipos principais de sub-rotinas:
 ---
 ## [**Exercícios Resolvidos do Capitulo 08**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/tree/main/CAP08/EXERCICIOS-RESOLVIDOS)
 ---
+
 ## **Como usar**
 
 Para executar os exercícios, siga os seguintes passos:
@@ -72,3 +73,24 @@ Para executar os exercícios, siga os seguintes passos:
 
 5. **Execute o código**:
    - Após colar o código, clique com o botão direito na classe `Principal` e selecione **Run As > Java Application** para ver o resultado da execução.
+
+---
+### Baixar o Repositório Completo como ZIP
+
+- Acesse o [repositório](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03) no GitHub.
+- Clique no botão verde Code.
+- Selecione Download ZIP.
+- Extraia o arquivo baixado para acessar o diretório desejado.
+
+## Execução dos codigos
+
+### Alterar o diretorio 
+
+- Abra o eclipse
+- No menu superior, clique em File > Switch Workspace > Other....
+- Na janela que abrir, clique em "Browse..." para selecionar um novo diretório para o workspace.
+- Selecione o diretório desejado e clique em OK.
+
+O Eclipse será reiniciado automaticamente com o novo workspace, apenas vá em cada arquivo Principal.java e click no botão verde entre Search e Project
+![image](https://github.com/user-attachments/assets/2392f14d-0607-45e3-b8d5-3d5edb33baf1)
+
